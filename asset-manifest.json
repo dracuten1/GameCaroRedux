@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameCaroRedux/static/css/main.b8243afa.chunk.css",
+    "main.js": "/GameCaroRedux/static/js/main.685875ef.chunk.js",
+    "main.js.map": "/GameCaroRedux/static/js/main.685875ef.chunk.js.map",
+    "runtime~main.js": "/GameCaroRedux/static/js/runtime~main.42fd72d9.js",
+    "runtime~main.js.map": "/GameCaroRedux/static/js/runtime~main.42fd72d9.js.map",
+    "static/js/2.9d468323.chunk.js": "/GameCaroRedux/static/js/2.9d468323.chunk.js",
+    "static/js/2.9d468323.chunk.js.map": "/GameCaroRedux/static/js/2.9d468323.chunk.js.map",
+    "index.html": "/GameCaroRedux/index.html",
+    "precache-manifest.8258d87bd402a7db97b02d7d09704fbf.js": "/GameCaroRedux/precache-manifest.8258d87bd402a7db97b02d7d09704fbf.js",
+    "service-worker.js": "/GameCaroRedux/service-worker.js",
+    "static/css/main.b8243afa.chunk.css.map": "/GameCaroRedux/static/css/main.b8243afa.chunk.css.map"
+  }
+}
