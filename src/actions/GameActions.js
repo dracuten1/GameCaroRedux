@@ -1,19 +1,22 @@
 import * as ActionTypes from './ActionTypes';
 
 
-export const sqaureSelected = () => {
+export const sqaureSelected = (payLoadsData) => {
     return {
-        type: ActionTypes.CHOSE_POSITION
+        type: ActionTypes.CHOSE_POSITION,
+        square: payLoadsData,
     };
 };
 
-export const initGame = () => {
+export const initGame = (payLoadsdata) => {
     return {
-        type: ActionTypes.INIT_GAME
+        type: ActionTypes.INIT_GAME,
+        payLoads: payLoadsdata
     };
 };
-export const saveHistory = () => {
+export const setStep = (data) => {
     return {
-        type: ActionTypes.ADD_HISTORY
+        type: ActionTypes.SET_STEP,
+        step:data
     };
 };
