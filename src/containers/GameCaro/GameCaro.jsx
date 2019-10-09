@@ -147,7 +147,6 @@ class GameCaro extends Component {
     }
 
     forward = () => {
-
         const { currentStep, history } = this.state;
         if (currentStep < history.length) {
             this.backToStep(currentStep + 1);
