@@ -1,0 +1,9 @@
+Github: https://github.com/dracuten1/RefactoredCaro 		Branch master
+Host: https://dracuten1.github.io/RefactoredCaro
+
+
+- Commit và Push project lên Git theo từng giai đoạn: 2 điểm
+- Cài đặt được Airbnb Eslint, Prettier, Husky theo hướng dẫn: 2 điểm
+- Sửa hết các error: 2 điểm
+- Sửa hết các warning: 2 điểm
+- Đăng tải lên host thực tế: 2 điểm.

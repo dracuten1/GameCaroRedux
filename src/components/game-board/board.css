@@ -1,0 +1,14 @@
+.square-row{
+    margin-bottom:20px;
+}
+.board{
+    background-color: darkgray;
+    padding: 10px;
+    width: 700px;
+    height: fit-content;
+}
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
